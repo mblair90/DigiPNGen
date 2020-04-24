@@ -1,4 +1,4 @@
-// Import modulles
+// Import modules
 const prompt = require('prompt');
 prompt.start();
 const fastcsv = require('fast-csv');
