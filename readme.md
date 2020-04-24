@@ -1,0 +1,1 @@
+This program takes in two numbers and generates an array of part numbers with different prefixes and suffixes. It then creates a .csv file with that lists all these part numbers.
