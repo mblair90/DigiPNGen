@@ -9,7 +9,7 @@
   "author": "Mike Blair",
   "license": "ISC",
   "dependencies": {
-    "fast-csv": "^4.0.2",
+    "fast-csv": "^4.3.6",
     "prompt": "^1.0.0"
   }
 }
